@@ -1,1 +1,1 @@
-Ergashev Ulug'bek
+# CV for RSSchool
