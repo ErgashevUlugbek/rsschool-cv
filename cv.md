@@ -29,6 +29,7 @@ conflict resolution skills are also good.
 There is some my code examples: [My Codewars account, solved tasks!](https://www.codewars.com/users/ergashevUlugbek/completed_solutions)
 # Experience
 I haven't work any company yet but I have good demo projects.  
+[Boat animation](https://ergashevulugbek.github.io/animation-boat/)  
 [Calculator](https://rolling-scopes-school.github.io/ergashevulugbek-JS2020Q3/calculator/)  
 [Puzzle game](https://rolling-scopes-school.github.io/ergashevulugbek-JS2020Q3/gem-puzzle/)  
 [Edustage](https://ergashevulugbek.github.io/edustage/)    
