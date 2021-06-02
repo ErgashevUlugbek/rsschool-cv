@@ -32,7 +32,7 @@ I haven't work any company yet but I have good demo projects.
 [Boat animation](https://ergashevulugbek.github.io/animation-boat/)  
 [Calculator](https://rolling-scopes-school.github.io/ergashevulugbek-JS2020Q3/calculator/)  
 [Puzzle game](https://rolling-scopes-school.github.io/ergashevulugbek-JS2020Q3/gem-puzzle/)  
-[CSS Selector game](https://rolling-scopes-school.github.io/ergashevulugbek-JS2020Q3/css-selector/)  
+[CSS Selector game](https://rolling-scopes-school.github.io/ergashevulugbek-JS2020Q3/rs-selector/)  
 [Edustage](https://ergashevulugbek.github.io/edustage/)    
 Teamworks:  
 [Covid dashboard](https://burhonov-covid-dashboard.netlify.app/)   
