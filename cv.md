@@ -30,6 +30,7 @@ There is some my code examples: [My Codewars account, solved tasks!](https://www
 # Experience
 I haven't work any company yet but I have good demo projects.  
 [Boat animation](https://ergashevulugbek.github.io/animation-boat/)  
+[JS Marathon](https://ergashevulugbek.github.io/js-marathon/)  
 [Calculator](https://rolling-scopes-school.github.io/ergashevulugbek-JS2020Q3/calculator/)  
 [Puzzle game](https://rolling-scopes-school.github.io/ergashevulugbek-JS2020Q3/gem-puzzle/)  
 [CSS Selector game](https://rolling-scopes-school.github.io/ergashevulugbek-JS2020Q3/rs-selector/)  
