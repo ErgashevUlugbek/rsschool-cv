@@ -35,6 +35,7 @@ I haven't work any company yet but I have good demo projects.
 [Puzzle game](https://rolling-scopes-school.github.io/ergashevulugbek-JS2020Q3/gem-puzzle/)  
 [CSS Selector game](https://rolling-scopes-school.github.io/ergashevulugbek-JS2020Q3/rs-selector/)  
 [Edustage](https://ergashevulugbek.github.io/edustage/)    
+[Book shop (Github link)](https://github.com/ErgashevUlugbek/book-shop)   
 Teamworks:  
 [Covid dashboard](https://burhonov-covid-dashboard.netlify.app/)   
 [RSLang](https://rslang-team6-butterbrot777.herokuapp.com/)  
